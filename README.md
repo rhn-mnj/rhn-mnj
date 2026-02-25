@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rhn-mnj/rhn-mnj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rohan
 
-Here are some ideas to get you started:
+Computer Science student at the University of Waterloo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## About
+I use GitHub as a place to build, iterate, and document projects I’m working on. I like learning by shipping small improvements, keeping repos readable, and writing clear READMEs so someone else can run the project without guessing.
+
+## Featured Projects
+- **SolBet**  
+  AI sports trading simulator with a React front end, Node/Express services, and Solana Devnet trade logging.  
+  https://github.com/rhn-mnj/SolBet
+
+- **Typing Test**  
+  A simple typing practice app built with React.  
+  https://github.com/rhn-mnj/typing-test
+
+- **DSRP2023**  
+  Data science / ML work in R (analysis notebooks + experiments).  
+  https://github.com/rhn-mnj/DSRP2023
+
+## Ongoing
+Currently contributing to open source.
+
+## Links
+- GitHub: https://github.com/rhn-mnj
+- LinkedIn: https://www.linkedin.com/in/rohanmanoj/
