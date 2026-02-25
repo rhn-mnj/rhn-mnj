@@ -1,7 +1,4 @@
 <div align="center">
-
-# Rohan
-
 Computer Science student at the University of Waterloo.
 
 </div>
