@@ -7,7 +7,7 @@ Computer Science student at the University of Waterloo.
 </div>
 
 ## About
-I use GitHub as a place to build, iterate, and document projects I’m working on. I like learning by shipping small improvements, keeping repos readable, and writing clear READMEs so someone else can run the project without guessing.
+I use GitHub as a place to build, iterate, and document projects I’m working on. I like learning through hands-on projects, keeping repos readable, and writing clear READMEs so someone else can run the project without guessing.
 
 ## Featured Projects
 - **SolBet**  
